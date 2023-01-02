@@ -7,15 +7,21 @@ how it works : role the dice, if you get a 1 the player two have to role the dic
 # Feature
 
 • role the dice randomly 
+
 • Switch player 
+
 • Save your point
+
 • Change player manually with hold button
+
 • Change animation and message when you win
 
 # Tecnologies
 
 • Vanilla JavaScript
+
 • CSS
+
 • HTML
 
 # Launch
